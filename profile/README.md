@@ -1,7 +1,7 @@
 # Faro Digital Media
 
 <p align="center">
-  <img src="https://farodigitalmedia.com/images/logo.svg" alt="Faro Digital Media" width="180">
+  <img src="https://farodigitalmedia.com/images/logo-white_background_black_text.svg" alt="Faro Digital Media" width="180">
 </p>
 
 # Web Development • SEO • Digital Marketing • eCommerce
